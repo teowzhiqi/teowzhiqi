@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I am just starting my programming journey and exci
 - 🎓 I'm a first-year Data Engineering student at Universiti Teknologi Malaysia (UTM).
 - 🌱 I'm currently learning programming and computer science fundamentals.
 - 💻 I'm a beginner in coding and excited to explore new technologies.
-- 📚 I'm interested in improving my technical skills and gaining hands-on experience.
 - ✨ Learning step by step, one line of code at a time!
 
 ## 🚀 Currently Learning
